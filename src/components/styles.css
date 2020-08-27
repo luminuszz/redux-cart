@@ -1,0 +1,31 @@
+
+  div {
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    flex-direction: column;
+  }
+
+
+article {
+  width: 250px;
+  background: cornsilk;
+  height: 100px;
+  padding: 10px;
+  display:flex;
+  flex: 1;
+  flex-direction: column;
+  margin: 10px auto;
+  border-radius: 10px;
+
+}
+
+button {
+  cursor: pointer;
+}
+
+
+article strong, span {
+  margin-left: 10px;
+
+}
